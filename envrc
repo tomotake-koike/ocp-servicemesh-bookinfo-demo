@@ -1,0 +1,6 @@
+USER_NS=bookinfo
+SM_CP_ADMIN=user1
+OCP_PASSWD=password
+SM_CP_NS=bookretail-istio-system
+GATEWAY_NAME=bookinfo-gateway
+TOP_SERVICE=productpage
